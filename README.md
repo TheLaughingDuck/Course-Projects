@@ -1,7 +1,7 @@
 # Lab-reports
 Contains varius project reports from classes.
 
-Laboration_1_Stok
+Laboration_1_Stok<br>
 This report deals with the long-term transition probabilities of a Markov chain.
 
 Laboration_2_Stok
