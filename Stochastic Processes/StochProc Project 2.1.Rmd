@@ -1,0 +1,8 @@
+---
+title: "Project 1"
+author: "Simon Jorstedt"
+date: "4/19/2022"
+output: pdf_document
+---
+
+
